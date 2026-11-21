@@ -57,7 +57,7 @@ for star in stars:
 """
 Персонаж	       Родители	            Чей live() сработает
 
-GlowStreamer	Streamer, Mutant	   Streamer
+GlowStreamer	Streamer, Mutant	    Streamer
 
 ViralCyborg	    TikToker, Mutant	    TikToker
 

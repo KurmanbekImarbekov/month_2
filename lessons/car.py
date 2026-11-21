@@ -1,15 +1,15 @@
-# class Car:
-#     def __init__(self, marka, color):
-#         self.marka = marka
-#         self.color = color
-#     def drive_to(self, destin):
-#         print(f'Машина марки {self.marka} едет в {destin}')
+class Car:
+    def __init__(self, marka, color):
+        self.marka = marka
+        self.color = color
+    def drive_to(self, destin):
+        print(f'Машина марки {self.marka} едет в {destin}')
 
 
-# car1 = Car("mers",'black')
-# car2 = Car("bmw", "white")
-# print(car1.marka,car2.marka)
-# car2.drive_to('Osh')
+car1 = Car("mers",'black')
+car2 = Car("bmw", "white")
+print(car1.marka,car2.marka)
+car2.drive_to('Osh')
 
 
 class Hero:
